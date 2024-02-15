@@ -1,5 +1,5 @@
 my:
-  greeting: Hello from config server-> from SpringJBL3 file
+  greeting: Hello from config server-> from SpringJBL3 file, change from git
   list: one,two,three
   keyValue: "{URL: 'https://www.google.com/', userName: 'user', password: 'pass'}"
 #java -jar SpringJBL3....-SNAPSHOT.jar with application.properties in same directory will override local file
